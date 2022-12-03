@@ -1,6 +1,6 @@
 # Yet Another Problem About Pairs Satisfying an Inequality
 
-## **Language: GNU G++ 17**
+## **Language:** *GNU G++ 17*
 
 * ## Binary Search
 * ## Data structures
@@ -15,4 +15,4 @@ g++ -o 1703F.out 1703F.cpp
 ./1703F.out
 ```
 
-[Link to problem](codeforces.com/contest/1703/problem/F)
+[Link to problem](www.codeforces.com/contest/1703/problem/F)

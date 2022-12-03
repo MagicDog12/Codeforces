@@ -1,3 +1,3 @@
 # Codeforces
 
-## **Codeforces problems solved by Cristian Durán.**
+## *Codeforces problems solved by **Cristian Durán** .*
