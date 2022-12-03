@@ -1,2 +1,3 @@
 # Codeforces
-Codeforces problems solved by me.
+
+## **Codeforces problems solved by Cristian Durán.**
