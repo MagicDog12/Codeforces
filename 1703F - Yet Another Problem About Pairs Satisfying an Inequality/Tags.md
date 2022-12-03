@@ -15,4 +15,4 @@ g++ -o 1703F.out 1703F.cpp
 ./1703F.out
 ```
 
-[Link to problem](www.codeforces.com/contest/1703/problem/F)
+[Link to problem](https://codeforces.com/contest/1703/problem/F)
